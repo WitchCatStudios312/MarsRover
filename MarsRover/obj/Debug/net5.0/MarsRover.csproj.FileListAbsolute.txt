@@ -1,0 +1,16 @@
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\bin\Debug\net5.0\MarsRover.exe
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\bin\Debug\net5.0\MarsRover.deps.json
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\bin\Debug\net5.0\MarsRover.runtimeconfig.json
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\bin\Debug\net5.0\MarsRover.runtimeconfig.dev.json
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\bin\Debug\net5.0\MarsRover.dll
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\bin\Debug\net5.0\ref\MarsRover.dll
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\bin\Debug\net5.0\MarsRover.pdb
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.csprojAssemblyReference.cache
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.AssemblyInfoInputs.cache
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.AssemblyInfo.cs
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.csproj.CoreCompileInputs.cache
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.dll
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\ref\MarsRover.dll
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.pdb
+c:\Users\lvanv\Desktop\Code Challenges\MarsRover\MarsRover\obj\Debug\net5.0\MarsRover.genruntimeconfig.cache
